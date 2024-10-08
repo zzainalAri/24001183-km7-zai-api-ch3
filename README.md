@@ -39,6 +39,6 @@ note: if you cant do from number 5-7 you can try npx sequelize-cli instead of us
 <p>7. Muhammad Rafif Ramadhansyah</p>
 <p>8. Zainal Arifin Fadliansyah</p>
 
-### OUR REFERENCES
+### OUR REFERENCES 
 <hr>
 <a href="https://sequelize.org/docs/v6/">https://sequelize.org/docs/v6/</a>
